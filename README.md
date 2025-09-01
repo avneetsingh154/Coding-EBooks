@@ -24,18 +24,18 @@ Welcome to **Coding-Ebooks** — a massive, curated collection of PDF resources 
 
 ### 🔐 Hacking & Security
 
-- 01. Advanced Penetration Testing.pdf
-- 04. The Art of Deception by Kevin Mitnick.pdf
-- 07. Ethical Hacking and Penetration Testing.pdf
-- 08. Network Attacks and Exploitation.pdf
-- 14. XSS Attacks - Cross Site Scripting.pdf
-- 18. Network Security Bible.pdf
-- 21. Hacking Wireless Networks for Dummies.pdf
-- 66. Cracking the Coding Interview.pdf
-- 68. Hacking Gmail.pdf
-- 70. Practical Hacking Techniques and Countermeasures.pdf
-- 71. The Art of Intrusion by Kevin Mitnick.pdf
-- 77. Hack Attacks Revealed.pdf
+-  Advanced Penetration Testing.pdf
+-  The Art of Deception by Kevin Mitnick.pdf
+-  Ethical Hacking and Penetration Testing.pdf
+-  Network Attacks and Exploitation.pdf
+-  XSS Attacks - Cross Site Scripting.pdf
+-  Network Security Bible.pdf
+-  Hacking Wireless Networks for Dummies.pdf
+-  Cracking the Coding Interview.pdf
+-  Hacking Gmail.pdf
+-  Practical Hacking Techniques and Countermeasures.pdf
+-  The Art of Intrusion by Kevin Mitnick.pdf
+-  Hack Attacks Revealed.pdf
 
 ### 🖥️ Assembly
 
